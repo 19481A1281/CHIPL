@@ -1,4 +1,4 @@
-//AlienNumber Program1
+//AlienNumber Program1 ok
 
 class Alien{
 public static void main(String...args){
